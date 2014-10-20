@@ -1,0 +1,508 @@
+##########################################################################################
+	Title		: Manually Annotated Sentiment Analysis Twitter Dataset NTUA
+	Created by 	: Aisopos Fotis et al. 
+	Institution : National Technical University of Athens
+	Laboratory  : Distributed Knowledge and Media Systems Group (http://grid.ece.ntua.gr/)
+	Published 	: Monday 20 October 2014
+##########################################################################################	
+Labelling conventions : negative (1) , positive (2) , neutral (3)
+1	I want togo home :(
+3	Administration doesn't really know what its diplomatic strategy will be' Bolton on Obama (video): Jus.. http://bit.ly/13T2w2
+3	Blogged Mechanical engineer at Erie Personnel (Ft Erie, ON): - http://tinyurl.com/kvotxr
+1	i can feel that my dark eye rings are getting darker and darker now. i mean processing right now! argh :(
+3	Eric Fortune: "Daughters Of Our Nature"- Alure: zou posted a new favorite picture (via): http://bit.ly/bEcHR
+1	@JasonM314 WOW! Nice one on the not smoking!!! I am too addicted to quit! :-(
+1	sitting next cute little toddlers on the subway always puts me in a good mood...but now I miss my niece and nephews :(
+3	Full link here, such a cute puppy! If Ididn't live in a condo, i'd take her :) RT @BobbiBillard http://www.adoptapet.com/pet2818437.html
+2	Solved the multitasking and battery dilemma of iPhones by putting a SIM in my 3G and using it in parallel with my 3GS(syncs via MobileMe):-P
+2	Haha! That's funy!!!! :) RT @melsie75: @jordanknight YAY! I feel like I just experienced the second coming of Jesus!!!!!
+2	Photo: (via fuckyeahhappy) awwwww :ÕDDD http://tumblr.com/xue2tnt0q
+3	This Article Was Recently Updated On APlusSites.com: ( http://bit.ly/4XkgFB )
+3	Good luck! RT @dogspelledfwd .@Troubledpaws Prob is, if some1 posted it, NGC wld go after it 4 copyright infrigement.I'm working on it
+3	#florida #events The Reid Report | Coulter disses Kathleen Parker (and Florida, too): In the too.. http://bit.ly/XMxsS
+1	I think my scalp is sunburned :( Interesting, considering I haven't been outside today. Fucking bull if you ask me....OWWWIEEE
+3	@dandebuf yeah hit me up tomorrow. i'm hungry now :( will be good to see ryan too.
+1	http://twitpic.com/c2j19 - The Blender at Gramercy on a sad sad day :(
+1	Not @ school :(, cause I'm sick -- for rillz. :| I can't believe it either
+1	@MattchewCorpuz because I always mess this up :(
+3	Iceland debt repayment could affect European Union bid: (STOCKHOLM) Iceland is struggling to make amends on a hu.. http://bit.ly/XQjJV
+1	HAPPY TIME // Tim Buckley ft Danny Thompson on bass: http://bit.ly/16wa8 - DT shed a tear showing me this the other day :(
+3	Part Closure (Bakerloo): Thursday 27 until Sunday 30 August, inclusive, suspended between Paddington and Elephan.. http://bit.ly/291kVO
+3	SanctuaryNews: Sanctuary's new plan unveiled (The Alpena News): Thunder Bay National Marine Sanctu.. http://bit.ly/18wFz8
+1	Shit. Forget to restore dorry's food when i go out. :( so guilty now! :(
+1	Just dropped Alicia off at the airport-- what to do with myself until Sunday? Oh ya, homework..... :(
+1	@kuuipo1207 are their pigments good??? i dont have any occ stuff yet :(
+1	Whee, just uselessly biked back and forth between Voorhout, turns out I don't have to work until 12:30. Could have slept in... :(
+3	On the way to the footy to see the bombers thrash the hawks!(hopefully):s
+3	IH Industry News: Customers back ammonia-treated beef after report (AP): Restaurant chains and.. http://bit.ly/7QmRoG
+3	@LovatoNerd Aw :( Well in my state it's part of a kid's book competition, so that's probably why...
+3	Photo: (via satelliteofyou) http://tumblr.com/xcr2yxf1g
+1	and i never see you on my online friends :(
+1	@Funkyheff I have no marketable skills. :(
+3	@deestillballin's NBA Rant (Kobe Bryant): http://iwillblogforsanity.squarespace.com/sports/2009/12/28/dees-corner-my-nba-rant.html
+3	RT @RosieHep: national asthma campaign starring Stacey Solomon.
+2	RT LOVE IT!!.LeeConti #bb10 I expect there to be a massive reduction in new born babies named Beatrice for a number of years to come..
+1	Terrible sports weekend.... VT and Eagles lose. Unbelievable :(
+1	on bebo and i have no more love to giv out :(
+1	I hate being sick its gay. :(
+1	@vickiheyworth you're right. Maybe the perfect costume is in the closet. I wanted a wig though. :(
+3	Microsoft Has Found The Cheapest Meals In America (Or Is Just Cheap): So, maybe you heard about Microsoft's newe.. http://tinyurl.com/lfa9qy
+3	***Good personal assitant its needed*** (Sanfrancisco-Usa): I need person that can be trust and also person that.. http://bit.ly/CRNKH
+1	no more allowance, damn red mango! damn tattoo.:( how will i eat?
+1	Dude i seriously feel bad and sad for that lady who got the swine flu shot and triggered something to fuck her up :( whos heard bout this?
+3	Photo: (via carok) http://tumblr.com/xax2vsfiu
+1	Photo: Tried and Tested. The REAL sis&bro imisss :( http://tumblr.com/xsp2rh29d
+3	@supxhero what's uppp? :(
+1	@tamster1328 Hi. I'm Lisa. I can't listen to the cell cast. :(
+1	#taiwanfloods Over 600 [missing] as reported in the US (NBC Nightly news). :( (via @photojazz)
+3	iMafia Chicago 5 PlayMesh Points (1.7): iMafia Chicago 5 PlayMesh Points (1.7) PlayMesh Category: Games Price: $.. http://tinyurl.com/mh3evf
+3	RT @ManMadeMoon: What is the traditional pastime for a labor day weekend? I intend to lay on my back, breathe rapidly and push for 72 hours.
+3	@MSRuntheUS for the big run. How are you? I saw your planned route. Very exciting! I need to email you. Super busy last couple of days :(
+3	NoFonts (Freeware): Will minimize the size of the HTM files generated by Excel http://bit.ly/4L1tMr
+3	New:: (http://bit.ly/2976W9) http://bit.ly/2976W9
+1	SERIOUSLY wishing I wasn't at work right now. I just want bed, The Smiths, strawberries and sleep :(
+1	Its depressing to watch my bank account get smaller and never bigger:( I need to get a job soon!
+3	RT @mashable NPRÕs iPhone App Blows Other News Apps Out of the Water - http://bit.ly/4cPXde
+1	don't cry honey, i miss you too :(
+1	airport tomorrow morning, can't wait, i get to see my japanese host student, i miss her! :(
+3	Seattle bank teller chases robber, loses job (AP) : AP - A Seattle bank teller has lost his job because he ran.. http://bit.ly/C346Z
+1	My boyfriend officially banned me from taking space trips :(
+1	@EmmaLBishop Usually by this point I'm feeling slightly more human, but I feel the same, I just wanna stop shaking :(
+1	what do i have to do? .......... :(
+1	I'm at the Cinemar *all by myselfffffff*. I miss you :( x
+1	Wow! Got transferred to a specialist and found out I got a wisdom tooth :( wtf! Fml
+1	(860): Oh my god. Oh my god. Oh my god. I drunk emailed a professor on friday. Oh my god. Oh my god.
+1	I think my tummy is talking.. ):
+1	Gonna be a busy day. *faceplants* I'm so tired... can't I go back to bed? :(
+1	@oritsuru I can't play the PS2 ones on my PS3 'cause i only got it in February :(
+3	@fineicave I know. I just like the headlines. Never get to read the actual articles... :(
+1	I think i have a sleeping disorder :(
+3	#BurnNotice 1x05 (Family Business): Michael needs his top con to outsmart arms dealers http://tinyurl.com/lrub3z (recap/quotes)
+1	Just realized I haven't ridden motorcycle in weeks :(
+3	RT @Shocklee: #FF info heads! @iammusiq101 @konkretejungle @TorrenceG @wayneandwax @JeremyMeyers @DJPriority @themidnightace @blokgolf
+3	@JoelyYoung I miss u too :( spesh our laughin fits for no reason hahahaha.
+1	@mitchy1441 Chocolate & Cheesecake? Hmmm..Just don't let him try to gargle the peanut butter...I've tried...It just didn't work out :(
+1	Dis walkin shit is gay. I think i found the guy whose bike seat got switched with mine, left him a note. My chest hurts :(
+3	* file.c (rb_str_encode_ospath): no more gurantee that the returned string is...: Commit by usa :: r25347 /bran.. http://bit.ly/mW3Uy
+3	New @ PDS Video: Wiz Khalifa Ð Hello Kitty (On The Pill): This joint knocks, IÕma have t.. http://bit.ly/3Dqsyo
+3	Photo: (via dbaldwin) http://tumblr.com/xih3m9xsn
+3	RT @FreshYaBoyBozz Yo if u really lisen to kanye verse on "forever" his verse was da most lyircal (dam right. Nigga rapped da game)
+3	Join me at Linkedin Ester Kanowitz has an updated profile (Experience): Ester Kanowitz has an updated profile: ... http://bit.ly/4JR1jM
+3	@ktbuns lol well at least we won't be alone in our mullet ways also I need to get mine cut I think that might be the problem :(
+1	says HAPPY FRIDAY!! I want to drown my motorcycle problems with yarn, however, I spent too much on parts. :(... http://plurk.com/p/1d0o64
+1	My Grandma passed away today. :( R.I.P. Lorraine Humbracht you were a great woman and fantastic Grandma.
+1	@Rdangelz I DIDN'T! :(
+1	@essteeyou Can't really. Will tough it out but cancelled on Chloe. Can't bear the thought of sniffling and feeling shitty through a film :(
+1	@chariberri i know. watch its gonna turn out to be nothin. :( it better be somethin...
+3	Job: Medication Aide CoordinatorMed Tech - (Lake Mary, FL): http://twurl.nl/psdg5n
+1	@happyhwife yeah, I think you will miss it. it makes me sad how fast he's growing up! :(
+1	@ririardana i'd love to! but my budget is not enough, i'm using ma own money! :(
+1	@alizegel i cant i bought my books last night and now have natta in the bank till i start work :(
+2	@kentruff I can't help the way I look :( LOL
+1	Got emotional at The Children's War Exhibit. Esp at the sinking of City of Benares ship with the loss of 77 child evacuees. Heartbreaking :(
+3	What Is The Psychology of Your Prospect? A Million Dollar Question: (video) http://ow.ly/iglz
+1	ughh...tummy hurts :( on a better note the America's Most Wanted Tour=2morrow then Cedar Point is on Friday <3
+1	I've got a fantastic headache :( time to sleep me thinks. Night everyone
+1	Sitting at indoor soccer facility bums me out.. Reminded of my past.. : (. Miss playing. - http://rubyurl.com/J9ZI
+1	@heycassadee http://twitpic.com/cptac - omg i had that bracelet but in pink! it kinda died :(
+1	The street signs look like they're going to get ripped off, that's how strong the wind is :(
+3	#566 - Entwickler Microsoft Office SharePoint Server (m/w): #566 - Entwickler Microsoft Office SharePoint Server.. http://bit.ly/16Puyj
+3	RT @priyankawriting who is going for flag hoisitng tomorow for #india??
+1	@tommcfly please say hello to my, i need this, make me happy today xxxx eu te amo ): 11
+1	Waiting for the school bus. :(
+1	:( leg hurts and i need a new chair to sit in for rock band
+1	@therezzza I'm not ignoring you!!!!! :( you said west10 isn't showing the proposal so I assumed we weren't going anymore..
+3	RT - Scouting Report: ROME http://tinyurl.com/nl7oxn
+1	@kindasleepy That's shitty :( I'm a chubby butt so I know the feeling but just gotta ignore the surraoundings and concentrate on the goal!
+1	I thought grammar should matter whenever/however you communicate? I know, there are so many now who don't use it. :( @ButtercupD
+3	The HTC Hero White includes a wealth ... - PitchEngine (press release): The HTC Hero White includes a wealth of .. http://bit.ly/yG5Ug
+1	I can't get out of bed :(
+1	"we work hard and sleep less... we are underpaid... we lack holidays...we dont have social life & real homes... "... In pusuit of a PhD _ :(
+1	Grr. She dropped her phone on my head :(
+1	@antwun .. Yea. Nd my simcards are sumwhr dnt knw whre!! :( too tired il gve it lata
+3	@Penis_Flytrap only the ladies :( lol
+1	@Havoc1108 @Johnny559 @DrAiRrick Hey fuck Isaiah right?? He shouldn't get an invite... No he doesn't. Pshhh and to think I had friends. :((
+1	RT @Asher_Ashy I HATE WEN YU LIKE SUMBODY N DEY DNT LIKE YU BAQ.. BUT DEN MONTHS L8R DEY SEE YU N WANT YU.. BUT YU DNT WANT DEM.. LIKE WTFF.
+1	*ahem* @montreat http://www.wireless.att.com/learn/why/3gmicrocell Yes, I know it only supports up to 4 users :(
+1	@blueturnsred http://twitpic.com/79m06 - awww. i'm so sorry baby :(
+1	Just woke up a bit ago. My mouth is still very sore. Waiting to get a call back from the dentist's office. :(
+1	I also have a headache @KateCooperOwen and have also just been sick at work :(
+1	Technology hates me. Third time this week i gotta take my laptop to the techs >:(
+1	@CalEvans It's not just you... I feel like I'm chasing my own tail. :( Know the feeling?
+1	Yup, so The Orphan, is wak as fuck, just found out. :(
+1	@guido38 I had to get rid of the pupp:(
+1	@jaxsk I hate spam followers so much! And how it looks like its gone to rain again :( http://myloc.me/oLds
+1	I am not feeling the love at all :-(
+1	@deepNdistant I didn't see ANYTHING, and I was out at midnight and again at 4...:(
+3	Mel Helitzer: Teacher, Mentor, Comic (Prof. Hodson): If I had his cleverness, I would start this tribute with a .. http://bit.ly/40fsY
+1	@LittleLiverbird the tooth any better ...nothing worse :-(...
+1	@musicgirl988 what's happen to your blog? i'm helpless :(
+1	will have her new look later. pfshhh. (kinakabahan ako) :| http://plurk.com/p/35b460
+1	@MyPrivateMuse Yuppp :(
+3	Fiddling with my blog post: ( http://bit.ly/2RLdFD )
+3	Revision 990: (classic) removed a couple more unused variables http://bit.ly/8mUqT
+1	& 4:03 A.M. is not a good time to be crying :( I should be asleep
+1	is walking home in the friggin rain . so wet & cold :(
+1	Soaking wet, out of breath and my butt's a little sore :(
+2	@DebbieFletcher and you'll come to Brazil with the money you win. We want you in Brazil Debbie, here's so cool, ask for tom ):
+3	Photo: (via aquabooks) http://tumblr.com/xoy234smj
+3	RT @StopAhmadi"Iran: networked dissent" by @ChrChristensen http://bit.ly/yNIM1 #iranelection Power of technology
+1	around missing my baby :(
+1	need my sunshine with me, here :(
+3	RT @viovibe It kinda tastes like crowd surfing...or so we think. Tell us what you think Vio kinda tastes like and win http://digg.com/u1BjKz
+1	Really wish I was in DC right now:(
+1	going to take a shower; then fix some pizza . i miss my baby :( . texttt or call if you need me .
+1	Let me go home...please...:(
+1	it could be the soundtrack to T and R's lives, too bad someday will never come for them :(
+1	Just found out I have family affected by the typhoon in the Philippines. :( Thx to @HappySlip for this! http://bit.ly/vN9NI
+1	just realized I left my coffee in my car. have to run out and get it on break :(
+1	@janemcmurry unfortunately he doesn't :( i might clone and sell him. you'd like his LOST halloween costume too--daniel faraday.
+1	@florateyu ))):flora i'm dying!!!
+1	First time cycling to work on consecutive days - heavy legs :-(. Also, yoghurt and raspberries do not = enough to cycle on
+3	@LiiNDSEYYYY sooo, you "RT" so that means you agree!!! lol :(
+3	Are Labour voters grateful to the Sun for the sympathy Brown's getting because of lazy journalism? RT @TheMedia_Blog http://bit.ly/3344tR
+3	Part-Time House Cleaner (fairfax): Am looking for a part time house cleaner three days in a week for approx. 3-5.. http://bit.ly/dYJMP
+2	RT @AtlanticGolf Post a comment on our fan page http://twurl.nl/f0a8yh and you're entered to win a $100 Atlantic Golf gift card!
+1	Hate being I'll at weekends...all my plans are out the window for soup and a sofa :-(
+1	It would be AWESOME if the wedding I'm in could be like this (sadly, it really won't): http://bit.ly/29W0C0
+3	Photo: (via wooyoung) http://tumblr.com/xte3i2rlc
+3	RT: @AdamZagoria: Achraf Yacoubou of Long Island Lutheran says his top 3 are UConn, Villanova, Kentucky
+2	That would make a funny T-shirt! RT @thebeadgirl: changing my name to "dad"
+1	A piece of my car snapped clean off when I opened my driver's side door earlier and now my door won't stay open. :(
+1	I've got Missy Higgins songs stuck in my head :(
+3	Toronto Jobs Live-in caregiver (Toronto - Ontario): Education: Completion of high school Some c.. http://bit.ly/6IS0p
+3	Photo: (via wtfjamie) I want to be friends with all of these people. http://tumblr.com/xkg3r6c0n
+1	@Bobby_Dore15 YEAH :( i dont even have the energy to think anymore.
+1	i miss my holidays like mad already, :(
+1	there are so many films i haven't seen yet. :(
+1	They're telling me to chug, 32 oz. Sooooo not gonna happen, it's time to go :( http://twitpic.com/a336r
+1	@daveellis0808 I've no idea if it's working, ain't got a spare to test :(
+1	I lost my hairbrush somewhere between brooklyn and michigan. & went swimming this morning. I'm going to make a fantastic first impression!
+1	I gotta get the FUCK outta here smh......fuck it im gon take a risk!
+3	Pro-Zelaya protests grip #Honduras ahead of talks http://bit.ly/4VPYQ
+3	Anyone else going to the @Zappos meetup?
+3	@GZ_Dave Oh hay, thanks for the add
+3	TC50 and Tony Hsieh: Are you trying to change the world? http://post.ly/5BtL
+3	Car & Driver - Quick Spin: Fiat 500C 1.4 Lounge: WHAT IS IT? ItÕs a sort-of-convertible version o.. http://bit.ly/12RDAF
+3	@BLASTOFFPROS Chillin! Sorry 4 the late response!
+3	just got done writing notes notes for next wednesday...wondering what we are going to name our baby man...he will have that name forever...
+3	Darrington WWTP Weirs/Weir Troughs http://tinyurl.com/y959jy4
+3	06:47 Orbital - The Saint
+1	God damn it. I want a fucking game night. I WANT TO PLAY ZE BOARD GAMES!
+3	test from the fox #osfcmfl
+3	RT @colletts: Collett's Mountain Holidays - Special Offer for mid-late August & Early Sept. Italian Dolomites http://bit.ly/17ydbj
+2	Another long day. Surprisingly stress-less considering the rain and commute. Lunchenda at Mister Kebab. Keema and pita YUM!!!
+2	Took the "Qual sua fama na escola ?" quiz & got: Popular ;D! What'll you get? _ http://bit.ly/11wXcn
+3	Part Time Jobs, India: Part time jobs , Online Jobs , Data Entry jobs: Everyone who are looking for that perfect.. http://tinyurl.com/nfuyo4
+3	Rotech Healthcare, Inc. is Hiring: Medical Billing Quality Assurance Spe... (Lakeland, FL) http://bit.ly/bwSro #Jobs #TweetMyJOBS
+3	@nubian122 going out to dinner w the girls dinner with my yellow tom. & the dog park in the day..
+3	American football star tries curling http://tinyurl.com/ybthtfm
+3	recreational calendar: CAMPS Tar Heel Baseball Camps, University of North Carolina, Chapel Hill: Little League, .. http://bit.ly/k31pi
+2	@kokeshi_me Did you make the marionette, too? Both pieces are amazing!
+3	#in2010 @youngscolla will be the Hook King!---- WATCH!
+3	@kimstable will you be my girlfriend? i want an xbox!!!!
+2	RT @isotopp: LOL @ http://twitpic.com/bcceq
+2	@_yoyo I still dunno what I would put on it! lol... So far it would consist of pics & that's what flickrs for! But I like the name, I think.
+2	@MaggaGyal loo, well then you had better grab some grub then. I love Zsa Zsa Gabor. So classy and stylish.
+1	badmood badmood badmood -_- idk why, bcause I'm hungry or because bad hair daaay.
+3	video killed the radio star
+3	Creative people are drawing and painting outside my window but all I can think about is "legal meh?" I blame my totalitarian upbringing.
+3	Hey, let go of all you know and get fired away now. What have you got to loose (8)
+2	I can celebrate now... RT @smojica: Dropbox the iPhone app has dropped http://tinyurl.com/yko4dzg
+3	RT @AdLibEnglish: A great website to practice your pronunciation http://is.gd/58nfD
+3	Read about the Eating Disorders: Anorexia, BED, Bulimia, EDNOS. Visit, http://ouwillemergevictorious.blogspot.com
+3	Confirmed the price of Touch Soccer 3D will be $0.99
+2	@nic_a_ that bad? I liked packed lunches and then went home for dinner too :-P
+3	I just took the "voc t apaixonado (a) ?" quiz and got: sim, t apaixonado (a) *-*! Try it _ http://bit.ly/i2NTq
+3	Wait a second, I only have a week of being 18 left. Shouldn't I be out doing irresponsible things right now? Can't be bothered, though.
+3	its raining like crazy..but i aint supa trippin, im supa chillin waitin on a supa million..coming soon..
+3	RT @justjaredjr Taylor Lautner: New ÔNew MoonÕ Clip!: Taylor Lautner whispers some reassuring words to Kristen Stewart http://bit.ly/GCIvL
+3	RT @bittman Starbucks "unbranding" stores in an attempt to make them un-Starbuckian. http://post.ly/2HJi
+3	http://bit.ly/OgT98
+3	Ok, can we just be done with the news about Tiger Woods now? Can we get back to the real news... The latest on the Salahis! LOL
+2	:) !!!! RT @usnoozin: #FollowFriday MY FAVS - AWESOME @danhe13 @Gemstars @Superglrl @jennihogan @Crystalrose64 @Radioblogger @Drewfromtv
+3	I want to go to the Hamptons.
+1	Fans are on and windows are on, but I'm still really hot. Do not want, August.
+2	@jordanknight ur wearing the outfits y'all wore during hanging tough aren't u ? lol
+2	@AmieyAcula rednecks don't like our kind... LoL
+1	@marleyterrier i wil luk at it marly.fank yoo for sayin me bowt it.i ope yoo did be owt for wark tooday cos it do be nise an sunny.. strokes
+3	Wonder if @TAThiessen and @officialkathyg are watching #designstar with us?!
+3	Watching @ladylillian paint @nopantsdance. I'm next #fallenladies
+3	RT @PierrePaperon: Hubble Is Back! With New Stunning Images http://bit.ly/4fxWP
+2	@pr_things now we have 2 things in common!!! ;)) now, what are your opinions about the color orange?
+2	Can't wait to tackle @AmyPookers and @erynmichael in a hug in a few hours!! <33
+2	woooot woooooooot! 90210 has picked the right baseball team! good shitttt.
+3	"Even if you pretend not to have heard what your heart tells you it'll always be there inside you repeating what you're thinking about life"
+3	#qanda the debt is there for a reason
+3	RT @JesseMcCartney: #musicmonday http://twiturm.com/2t06 Listen to and share Body Language (feat. T-Pain). Retweet it people..
+2	@morriscat That would be lovely! Then we can have the roasted chicken and tuna fishies all day long!
+3	Wouldve really liked to hear the analytics group in 202 go up against the B&J/Sharpie case study group at #adtechchi... Powerful insights
+3	Had fun in EPCOT with Sara today...played "Mission:Space Race" and lost
+3	i got berated by an old lady for telling snoops off for pulling on his lead. politeness stopped me from giving her snoops & running!!!
+1	@moegreeb well I have to admit that spending the days on my hands and knees like Cinderella isn't the most fun I could imagine.
+3	RT @AZChallenger: RT @NASAWatch New Planet Discoveries Around Nearby Stars http://bit.ly/6b5sBR
+3	@VirginiaArchie peoples questions and was interviewed. Hopefully at the next david event we could meet up
+3	@blooylou deuces wild! ahahaha. and now I'm reading 20 pages of the Euro book. Must.Catch.Up.
+3	Take my quiz! How well do you know @juliahofling? http://bit.ly/19thBZ
+3	finished my good girl deeds 4 the week...sipping some wine then taking a nap
+3	http://if10.net/0cf Apple Rock And Roll Event
+2	@nieanadya I've heard it gets sad at times, but i'm still going to see it, it looks funny.. I usually see everything that comes out lol
+3	@michelleyus Ha! Michelle, that was the Army DNC club that did that, not Chaney! So, what's this about Craigslist? Tell me more!
+3	Intense Movie Reviews http://bit.ly/1dxqB #film #media Pls RT
+3	RT @tweetmeme 10 Fresh tools and resources for web developers http://tinyurl.com/msdt2j
+3	RT @FreeMoney_tweet: Check this: Cash in On Ebay! http://bit.ly/F962N
+1	so I just noticed that the MBP cools down through the keyboard. guess I can't leave it closed anymore while it's connected to my display =(
+3	Richest Man in the world vs Indigenous ppl >Oxford Ala Council finds for the rich http://tinyurl.com/nembwv #NoSamsClub #ParoleForPeltier
+3	New blog post: I Want To Be A Nurse Or A Midwife. Where Do I Start I Live In South Wales http://bit.ly/o6VEc
+3	@fab225 Im ready! i just popped 2 vitamin C pills just now!
+3	@SheilaEinTO I like that song too....but I also like this song...http://tinyurl.com/32mt4j
+3	@andy065 You hashtag your underwear?
+3	@Saulo180 really? Why were you there?
+3	I said T minus 9 days earlier, but I meant T minus 8 days...
+1	Hi creepy foreign men. Subway at 9am is NOT Havana at 9pm. Go away!
+2	Chilling at home, DA17 5AP
+3	Parents, DonÕt risk your tax credit!: ÔFamilies who receive working tax credit and child tax credit should.. http://bit.ly/2kUYuj
+3	Hard Rock plans Pinktober-Fest for Breast Cancer Awareness http://ow.ly/shAm
+3	: Any Webdesigners PT/FT for hire? Needing one desperately to design high-profile website. Send portfolios to redewe@gmail Pls RT
+3	Kingdom of Heaven screenplay has a sequence in Rome where Neeson's and Bloom's characters meet the Pope. Would love to have seen that.
+2	RT @BrookeAdamsTBG5: Everybody wish @mandyjiroux the best birthday ever! I love her so much!
+3	$bday Nov.13$ I need 10,000 friends on myspace to do certain stuff help me out post a bulletin about my site tell e ... http://lnk.ms/4Q1fj
+2	Happy Thanksgiving to all who celebrate! It's a beautiful day here, clear and crisp. About to get my "cook on".
+3	Riveting talks by remarkable people, free to the world http://www.ted.com/
+3	New blog post: GreenLine Seehotel Feldberg Mecklenburg Lake District http://bit.ly/6kjro
+3	i cant wait to the wizerds of waverly place MOVIE!!
+3	The faculty member who both fell off a curb and ran into a door staring at me last year? Yeah, he's teaching one of my classes.
+3	RT @haldira Please encourage others to see @NathanFillion's movie Trucker this weekend, details at http://twurl.nl/0qwmmo (via @FannishInc)
+3	@anythingzombie... its the 12th here! lol.
+3	Any. RT @claudioalegre: Best weekend for #ecrabo ? @modulista @modulist @lapp @jeanetteag @allisonnazarian @mikelamonica @cristnabls @gopalo
+3	me sanna lovisa as huey, dewey and luie! BTW, if you ever have doubts on them.. http://bit.ly/Ev3E6
+3	Searched Twitter for #hottest100: http://tinyurl.com/l4xguq party at my desk!
+3	wow wide open.... come on eagles the nfl has made in interesting in way too many games
+3	Verdi's ice cream is the best! Quick dash home, then I'm off to Grandma's annual choir concert to sell programmes at the door...major rush!
+3	@RobinACollins right! in the driveway. I wasn't even home. i pulled up w/ my cousin to fire trucks and shyt
+3	Chinatown, baby. I took em' down to Chinatown.
+2	@ashbash6317 heck yea we are... That is why you and everyone else keep me around. ;)
+3	NYT: Traditional journalists still breaking news, not bloggers http://www.nytimes.com/2009/07/13/technology/internet/13influence.html
+2	Yay for pretty shoot with pretty bffffff! http://www.flickr.com/photos/ceruleandepths/3651704539/
+3	RT @mastercreating: Discover how transparency is liberating. http://is.gd/F91A Article
+2	@Avaaz you don«t have to thank! in fact I should thank you guys! we are in the same channel! greetings fr Cancun Mx
+3	@MissKoya it can be a package deal...we get a brother and sister from a good family and get our bills paid....
+2	These guys are pretty cool: http://www.myspace.com/thesethreecities
+3	Most revolutionary new musical instrument of the last 60 years? http://j.mp/cg9Kx (via @CreativityBoost)
+3	http://tinyurl.com/nt2nkd - Become a powerful master of the PPC apparatus.(Do more than $4000 a day with AdWords.)
+3	seriosuly there were so many characters in order to pls every single person its insane I have a page full of signs across the page, insane
+3	You can find and compare local phone service from leading companies. White Fence http://bit.ly/1tYoIh
+3	Yanks Win Game 1 Of Double-Duo: WP - Phil Hughes (6-3) LP - Lance Cormier (2-2 SV - Mariano Rivera (39) Derek Je.. http://bit.ly/3QPCo
+3	The mummy is going to fuck you now _
+3	@tharealleaky lolz im not tho...hope he dont think i am kmt!!
+3	http://twitpic.com/8ladp -
+3	http://twitpic.com/c1876 - me
+3	#iwmwp4 I agree with @Davie_T. I thought that by CMS in this session you mean Configuration Management System (ITIL)
+3	Sultan 5/5 on Yelp: This review is exclusively about the hummus of Sultan. Having spent half a year in a far away l... http://bit.ly/Hsv7D
+2	@osangmeister deep thanks to my love osang and rubs.
+2	@vbrissa07 I am so SMART S-M-R-T
+3	The mall is full of hobo. too bad i don't have my camera
+3	Could really do with one of these please RT to win! I want to be in with a chnace! :-) http://is.gd/1CrhA #scramble @robmercury tell ash
+2	ran 7.5 miles comfortably. The comeback trail is going well!
+3	RT @obox: Social Media is a Tool http://digg.com/d1teVQ
+3	RT @mashable STUDY: Facebook Increases Jealousy in Relationships http://bit.ly/3OOyIM
+3	RT @RealCDotMooDy: @BigButtNSmile umm u act like u dont wake up in ratchet mode, da fuck u mean u feel like being ratchet TODAY?? ha!<- lmao
+3	"Sippin on my pinot got me cooler than Pacino and DeNiro put together my real life is like casino.."
+3	@womanatmile0 ACK, indeed! Spiders get big this time of year, and start moving indoors.
+3	RT @professorf: Huffpost - Ferentz Lafargue "Baseball Strikes Out Again" http://bit.ly/DZvyz
+3	@Yening thanks for the song. I learned a new juggling trick tonight
+3	Alliance Formally Launches Attack On ... - Wall Street Journal http://bit.ly/1bkUwt
+2	@JessyBR Hmm, I think he went to meet and greet yes. And the show is always great!! No stalker at all. Bras, Purple Boa and much love!
+1	@2Popetorn arrghh u r on twitter too!
+3	Making Love in the Kitchen: Play It Again Week, Brush Up | Online ... http://bit.ly/cxhwF
+3	Hey @ChrisPirillo, I read your top 25 list: http://go.tagjag.com/jinx [and all I got was this lousy t-shirt!]"
+3	SPEECHlESS BUT liSTEN iMMA b iiGHT CUZ AiNT N0 H0E iN MY Bl00D...l0l...REAlly H0W U G0NE TEll ME WHETHER iM HURT 0R ... http://lnk.ms/2ZzQx
+3	Photo: http://tumblr.com/xzt4yr3hf
+2	YEC is a wrap. Great working with Skillet, Group1crew and Bluetree. All incredible people doing incredible things.
+3	US start-up finds way to pay via Twitter http://ping.fm/b5EP0
+3	@JohnDellaporta silliness! I was just hungry before work so I went to the gas station beforehand. I wish I had a more interesting story!
+3	50 Best-Of DesignerÕs (NEW) Download Picks and Resources: http://itsy.nl/vMsz2
+3	Parexel is Hiring: Patient and Site Recruitment (Durham, NC) http://bit.ly/4s7sbN #Jobs #TweetMyJOBS
+3	I just attacked @ducksensei4 and lost. #ninjaclash http://ninjaclash.com
+3	@50pesos haha what's up lil buster when ever u get that motorcycle lic Haha. what's up with u fairy how's the band dude?
+3	http://tinyurl.com/mbtameet #mbta meeting tonight
+3	Michael Vick may keep $16 million bonus from Atlanta Falcons, federal appeals court rules http://ff.im/-bjzPD
+3	Lansdowne, located in a community known as...Lansdowne
+2	Already finished final edits of ch 3. Shinny & lovely. Absolutely proud of hook at the end. On to ch 4 #amwriting
+3	people..LISTEN UP..who wants an @DKNY watch? I packed up Oprah's box & I have 1left over..100th person to RT this -wins http://bit.ly/11msII
+2	@s_lesley @orphesteude this is interesting being a sort of moderator between you two. sarah you text, i read to taylor over skype. fun times
+3	GAY men Dating http://is.gd/1jm8I Fast acne cure http://is.gd/1jm9d Remove Moles /Warts http://is.gd/1jm9S Top date site http://is.gd/1j
+2	guess what ---- i finished the lease and my financial aid paper .... i feel like thee only weight has been lifted off my shoulders. =]]
+2	@trelljj thats cool
+2	@jaronmc LOL it goes together nicely - see I'd have to rush onto my balcony to ge the shot and right now haz no pants
+2	luv it! RT @RobertGirandola when I was little, I used to draw on the walls, signed it with my brother's name-parents bought it for a while.
+1	RT @tqjones44: Conservatives & republicans R scared 2 death that their children may find out that their parents R BAT SHIT CRAZY! #gop #tcot
+3	Back to the House of the Toasted Laptop tonight, SO close to affording new sparkly slinky iMac I could cry. Hole in metaphorical donut. Booo
+3	@sweetmiseryy I wasn't on MC on Sunday - was on "weekend leave", meaning I was free to roam around...then MC from yesterday. :)
+1	Aww qtt my periodd |Stupidd harr dyee didnt workk.Neww Picturee qoo comment ill returnn the favorr:)| Talkin to And ... http://lnk.ms/3g6hq
+3	i don't like how i just used "sleep" twice....so let's change that to i'm tired :)
+3	Rt @bearblanca ... when I'm sad :) - true! Thank you, not every girl is stuck up!
+3	RT @lyndakelly: RT @richallsop: #bb10 are they allowed to discuss nominations still? I wondered that bea just discussed them..
+2	@rajeshlalwani ah woh toh hain. I felt that too. But then Twitter is an outlet no? Throwing some ++++++++ve energy at you. :-)
+2	@AHisme Haha! I think they're all worth it - British guys are extremely talented and extremely charming.:)
+2	I love coming home freezing, smelling of wood smoke, and full of fried chicken, veggies, and a million kinds of cake :)
+2	@makemeup82 I'm going to do Lucy next year for Halloween :)
+2	Arrived at the cockpit. Good morning all :D
+2	bought a Nikon D3000 SLR today!!!! thanks grandma i'll miss you!! but ill think of you w/ every new memory! =)
+2	:) si RT@Lyphpcp: It's fun to stay at the y-m-c-a.......
+2	and in case you don't know, i'm on omegle. :)
+3	RT @ceworks: NIKE resigns from the Board of Chamber of Commerce, says they "fundamentally disagree" on climate change: http://su.pr/6Z8tmQ
+3	@abetterflapjack heh, in a modern version of WordPress, perhaps. :-) (& that's why I need the backupÉ to upgrade!) Thanks.
+3	RT @freefilen Gayle San - Fine Audio DJ Mix Series Vol. 2 (1998) http://bit.ly/2CQDI
+2	Im talking to myself. Haha. See what its come to. Lol. :)
+2	Ah :) You make me smile so much, and you don't even know it.
+2	I love watching old shows I feel they have more values than shows today:)
+2	Can't wait to looky2 @ ampel next week...bwahahaha :D http://myloc.me/SnbZ
+2	Hungry? Maybe? Reading harry potter. :)
+2	Summer! Summer! Its Summer Mother Fuckers!!!! :D
+2	RT @Mulator: 5 minutes until we hear the sweet music of "He Shoots....HE SCORES!
+2	http://twitpic.com/ear75 - Mmm desert :)
+3	RT @newscientist Engineering the genes of livestock could make them incapable of feeling pain http://bit.ly/XGg4k
+3	Let us endeavor so to live that when we come to die even the undertaker will be sorry. . ^^^ So said Mark twain. :)
+2	@chadwickhjones ha; i dont get facebook, lol. :)
+2	Just booked a last minute trip to Germany. Going to Hamburg & and a little town that I cannot spell. :)
+2	Bom dia! Live from the windmill! :)
+2	i think shakey's has the best buffalo wings :)
+2	Yo @johnthornhill and @Dave_Nicholson, it's nice to see you guys on here briefly again! =)
+3	@PRiMETiMECHiCKZ Thanx :) whenever some1 asks me how I spell my name they think its spelled like yours
+3	RT @ChipotleMedia: June Cosmopolitan lists Chipotle (client) as one of the best places to meet men. http://tiny.cc/dSBae - true that
+2	I'm updating the @tweamburke folder! :)
+2	@Mircea_Popescu i'll do my best:)
+2	@illscarlett winnipeg soon ? (: hope so. i love you guys <3
+2	Oh man. I am very tired. But I'm very happy. I feel loved by KC & Co. It's amazing. :)
+2	@JeffTimmons98 Did u talk about me? lol I was hoping to hear ur voice too. Do another BT instead:) loveya
+3	RT @Schmorker: Extreme pogosticking! http://is.gd/2FeGt >> talk about risk-takers
+3	@seankingston hey hope your well just found ur account so thought id follow you and send u a tweet :) xx
+2	@corgreen So glad to see everything went good :) now the journey begins :) congrats :) what a great Christmas present :)
+2	@MarvetBritto it definitely is! You should have a book of all your 'PR Gems' I always read them 2 my class & my teacher loves them! :)
+2	@jackieloi wah! died ah.. I mean.. Diet ah? :D
+2	@realbrookewhite aww you look really pretty in that pic :) i love your hat! thanks for sharing :D
+2	@mitchelmusso - Britney does! (: Hahaha. And why don't you just go to 2010? That's one more person you can make happy! (:
+3	@yassoma yeah reminds me that i didnt publish my pics once i got it :D
+2	@CathrynMarie Mornin Cat! I have some Yams for you. :)
+3	RT @HideyoKusano #twitdraw http://twitdraw.com/rstyos
+2	homecoming at church in a lil bit (: ... http://lnk.ms/2hgVt
+2	Enjoying some vino and food with la whore and her friends :-)
+2	@diamondlarry Amen to that! : )
+2	Lol aww! RT @AubreyODay: http://twitpic.com/gi9in - My momma with her man. They haven't seen each other for a week. Getting that cuddle ...
+2	http://twitpic.com/7b9zm - I love mary (:
+3	@JenalynMichelle what time do you work today? ...and what are you doing before that? =)
+2	@itsmebadgley suuurrrrrreeee u will ha i know one subject u will NOT answer. :-) you are on my twit wallpaper ha ha thats not weird at all..
+3	@BoroianBABES I am okays. Watching a movie, actually. Putting together an album of photography actuallly :) how are you?
+2	@natassiachloe HAHAH yeshh thankss tass :) http://myloc.me/CpJ8
+2	@fanyjjang They were so awesome, weren`t they? :) Gosh, I hope they`ll be as popular as SNSD!
+3	@raychul_5 the leo symbol cradling a star on one side and a moon on the other. :)
+2	OK yeah hahah so I am back state fair, i am frekin tired it is time to go back to bed again lol!!! =)
+2	@carolinamnz :D i know loveU! caroons
+2	@bbygirl_wy See you later! Ice cream bar later, tara :-)
+2	15th monthsary!!!!!!!!!!!!!! <3 bpp is the best bf in this whole damn world! (:
+2	@saramadison Lets!! I have two. :)
+2	Beautifull news - "endless music" of Michael Jackson :) http://bit.ly/n73mz
+2	ugh...i'm not looking forward to the whitecoat ceremony tonight! Oh well, at least I'll get to see my family :D
+3	@Frumph good to know phil :) though I'll have to wait until I get home sadly.
+2	@jagz112 yeah,he was around most of my life,he holds a huge special meaning to me.nice to meet you by the way:)
+3	Eval here: http://bit.ly/6MDAuRT RT @ConLetters: 'Water neutrality: ...' http://ow.ly/iTev MUST READ #f1000
+2	@dongwayne lols gossip girl's cooool. + I have a oth poster:)
+2	So excited to go to the airport today. I haven't been there in a while and its always nice to see departures and arrivals:) People are w ...
+2	@DirtInMyI I know :) Issues.. not so cool either. BUT the eyepatch is still made of awesome!
+3	Yup. Featuring a very young Hugh Laurie and @StephenFry RT @ChrisLundie: Vision TV in Canada is apparently running Jeeves & Wooster again
+2	says hi!:)) http://plurk.com/p/1kkvli
+2	Getting through the photos at a quick pace! This is great! Soon a BBQ with some friends :)
+1	RT @bringsdogtowork: 9-12 DC March - Obama, Can You HEAR US NOW?!! Crowd ROARS http://bit.ly/ZgTDz #tcot #iamthemob/ good video
+2	@EyeRanProtestr It is YOU, pal who are in custody... And already confessed without coercion :)))))))))) #iranelection
+2	Lots of children crying at school today - surprisingly Anya wasn't one of them. I got a big super huge hug though :)
+3	Buzz Aldrin vs. Buzz Lightyear! RT @therealBuzz: Did anyone see me arm wrestle Buzz Lightyear? I win every time. http://ow.ly/fxC6
+3	RT @LG15todaynews: RLG15: The Last - Quietus - "Alone" http://lg15today.blogspot.com/search/label/Quietus
+3	RT @crewt Orange Bowl is sacred land. Can't look at ungodly pictures of an overpass getting built on its ground.
+2	Okokok lmao forreal this time ima go shower =) a NICE HOT shower lol my bathroom is madd steamy right now =) lol
+1	@cuwarrior - If that's true, it's still a lot. (and don't get me started on the other spending or the Iraq war... I'm punching out soon :)
+2	I just ordered my new Creative Zen MX... can't wait til it's here :)
+2	@jakieee08 bahahaha my dad always gets angry at me for all the pictures i have of them, i have like over 3000 :D haha
+2	@ddlovato hey, I just wanted to no when your doing another live facebook vid? :)) lub ya!
+3	@WEIGY but don't worry, is not end of the world :)
+2	@LilGreenFingers Thank you :-) and will call you soon.
+2	@sweetener so after the film, should we sing 'happy birthday' for her? :D
+2	@queenmotherblog I will keep my fingers crossed for you! hehe :)
+2	@hollymadison123 hi holly, im a big fan from england, just wanted to say hey and hope your doing well :) . please reply xo
+2	Such a fun and beautiful dinner.. Thx to my hub @indraputra and all my friends. xoxo :)
+2	I got my new phone! It's beautiful!!! ...and I already want a new one. =)
+2	i wish i knew someone famous. or was related. how cool would that be?omg thats my new life goal, to perzonally know a celeb! :) any offers?
+2	@SARADAWWGS_ hahahaha yes i know:) uhm fine you can be a OH i fucking give up :)
+2	is excited for the Wifi Testing in SM later! :) http://plurk.com/p/14cdn2
+2	i am currently joining twitter because my beautiful andrea told me it was amazing, lol (:
+2	RT @spiceee:happy 09/09/09! http://bit.ly/lxvrP
+2	i made it! :D
+3	Why are me and my best friend talking through twitter and not in person hahaha :D
+2	Yes you are, you are my favorite one. :)
+2	@violetposy Yep...I'm on it...looking right now. I'll get a few for your expert opinion! :) Again, you ROCK the HOUSE!!!
+3	@KimKardashian let me be your friend too? see my orkut :D
+3	Now that we're done, I'm so sorry. I know I hurt youuuuuu. :-)
+2	@thesnarkyone I can't be good at everything, so I've chosen not to excel at driving :)
+2	The last 2009 .huhuu. Great year ever! and full of memory :)
+2	@jawshoouh well you have lexy and carolyn and me and bree and hannah. we're your friends :D
+3	@MissBehaves What does the BSB stand for? /:)
+2	Well other than hurting my knees and now a muscle in my leg, im fine :)
+3	RT @mjnewham A Collection of Humorous Flowcharts for Web Designers http://bit.ly/TbAqx
+2	shower, getting ready, dinner then transformers with sb and kat :)
+2	@JeanineDeal @DREAamara @HappyPrettyYou @ReikiAwakening @salesquotes @vinilereu @michaelmagical @Jake_DI244 thanks for the love friends =)
+2	Great Morning USA! @JoeJonasLoverxo @Courtney731 @lalasarah @xKathyxTarax and @lesliellyn were the first five to get it! :D
+3	@tuftedpuffin ...but I think I was about 6 or so when I liked them :)
+3	@lizzistardust yeah, I hate people how feel GOOD while they run. I am not that person :)
+3	@eni_kao "stop thinking about the PR of how you look and focus on the journalism of what you do." :)
+2	Had the chance to eat Bettis' restaurant on Sunday after Pirate game. Really enjoyed it! :)
+2	shares Hightlight of the day :) http://tinyurl.com/yhf7tjs http://plurk.com/p/2imggm
+2	@yellowduckx rawr! u need to watch more oowarai :) glee is awesomeee, soooo wuzzup?
+2	having a fun time 'riding' on my sister's back! haha.. she's huge and i'm a dwarf compared to her :D
+2	@DeeFamouSs waiting for you to come read me a bedtime story and tuck me in :)
+3	@sanjaydbhatia thanks and sorry for the late reply... i hope that mystery shopper gig pushes through... anything extra will be a big help :)
+3	Took the "Voc  chato ou gente boa? :D" quiz & got: Legal! What'll you get? _ http://bit.ly/139NoC
+3	@dannyrob you've had atough day mr. All that drama at work and relentless spamming on twitter :)
+2	i'm home alone for the rest of the day (:
+3	reading the tornado docs, on a lark, I fired up ab against my test server and my own framework just to see. Ouch. :)
+3	@krystynchong who the heck is marselle Wallace?? :-)
+2	@markkayeshow lol :) At least it's a change of scenery. Fresh air stimulates the mind... erm... I think? lol :)
+2	@five15design I bought an Orinoco when I was in the UK years ago - he does rock! :-)
+2	If you're going to #iowacodecamp and you want to learn about Pex, come to my talk! :)
+2	@XPR Hope you enjoy the Vitamin D. :)
+3	RT @Sugarnspicepix When the world says, "Give up," Hope whispers, "Try it one more time." ~Author Unknown
+2	Nice. Sitting outside drinking coffee and listen to live music. The guy isn't so bad. Knows how to play the guitar :)
+2	APOD today - such a cool shot. I just hope Wolowitz was not involved in its construction. :) http://bit.ly/dYdIW
+2	detailing lagi :D yeahh.... I Love it
+2	Just blogged. Warning-contains reference to sweet things :D http://willsketchforcake.blogspot.com/
+3	RT @toptentopten: The Top Ten Greatest NBA Playoff Upsets: http://bit.ly/vXmAd
+3	@claiireeee what is a flick? yeah I really don't think mine will last that long. it hasn't started messing up yet though (:
+3	@hawaiianbear I should have re- worded better. U weren't only one to pick me up on it . I am Tired and tweeted out :)
+2	AWESOME place!!! white sand beach ... clear blue sea... this place is sooo relaxing!!! :D http://twitgoo.com/1wx2p
+3	@OwenDell Will we see this in an upcoming tv program? :-) A tribute to minimalism in the garden?
+2	Librivoxateers, the new community podcast is wonderful! Thank you all :)
+2	@MarcoShaw :) well when I get settled, maybe I'll get one to "splinter" from IT Pro or a coffee and Code :)
+3	Baby's movements are so strong my whole middle moves! That's why I can't sleep at night. She's having a party in utero. :)
+3	@tiggerificly Ironic that the policy Harman's advocating makes her look like a total failure :D http://_.ws/_
+2	@SunnySiide - Johnny Tep sounds like a good name(: &lt;3
+2	@NongLing Yeah I got it. Shaking me head, but I got it. :) LOL
+2	pumpkin picking w/ da fam and movies with billy tonight(:
+2	okay twitter going to sleep now or read lol love ya with all my heart and GOD BLESS every second of every day :)
+2	http://twitpic.com/ck3ei - natalie and me when we were about 10 or 11 years old :)
+2	@HardcoreLomeli Really??! Awesome! I recommend you to listen to "Wild Hope" (record). It'll change you life. :)
+2	@poetryinsepia HAHAHA okay love. i understand. (:
+3	@michaelmeloni Maybe we need a dryTUB. (and also, caffeineTUB and sugarTUB :D )
+3	http://twitpic.com/ahtz5 EU *-* foollow me ! (:
+3	RT @kermitboiii: Reluctant to say so, but 2009 was the year of the GaGa.
+2	Bearly coming back from school for da registration :)and going back tomorrow
+2	@LloydDavis Top of my new year's resolution list is to see more of you and @solobassteve. :)
+2	@alexknight I just saw. I tried to cancel the first one but it didn't work :) haha
+2	@zbussey -_- enough with the tofu! okay so will u get me some :)
+2	@tommcfly i love weddings :D HAHAHA!
+2	Inglorious Bastards pretty good. Time for a little booty shaking and trainwreck chasing. :)
+2	(: Last update of the night. Busy day tomorrow- but I'd be lying if I said I wasn't excited. Goodnight Twitter, tweet dreams.
+2	@karinkydink Oh. No, I haven't seen it. We aren't ashamed of *ourselves.* :D
+2	@MHeadcase thanks :))) I'm gonna enjoy today
+2	got passes!!! woooohhhoooo(: gettting hair done + then packing for atlantic city(:
+2	@JkGirlAllTheWay well, i just think it's cool that we both love nkotb, etc! we have stuff in common! :)
+2	@kieronrichardso you dont look nothing like joe lol hope your ok :)
+2	@MillaJovovich lol - well thats good news :D how far into RE are you now? x
